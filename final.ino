@@ -1,7 +1,6 @@
 #include <Stepper.h>
 
 
-
 // 스텝 모터 설정
 int STEPS_PER_REVOLUTION = 200;
 #define STEP_PIN1 8
